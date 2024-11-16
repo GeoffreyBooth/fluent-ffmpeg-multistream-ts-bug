@@ -1,0 +1,8 @@
+{
+  "name": "audio-bug",
+  "type": "module",
+  "dependencies": {
+    "@dank074/fluent-ffmpeg-multistream-ts": "^1.0.3",
+    "fluent-ffmpeg": "^2.1.3"
+  }
+}
